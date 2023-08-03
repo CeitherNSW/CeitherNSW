@@ -7,9 +7,10 @@
 - 💬 Ask me about CV models 
 - 📫 How to reach me: l.sr3344@outlook.com
 
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|  
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=CeitherNSW&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CeitherNSW&theme=radical&layout=compact) | 
+
+![Ceither's github stats](https://github-readme-stats.vercel.app/api?username=CeitherNSW&show_icons=true&theme=radical&include_all_commits=true) 
+
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CeitherNSW&theme=radical&layout=compact) |  
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CeitherNSW"></img> 
 
