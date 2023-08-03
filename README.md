@@ -7,5 +7,5 @@
 - 💬 Ask me about CV models 
 - 📫 How to reach me: l.sr3344@outlook.com
 
-  ![](https://count.getloli.com/get/@CertherNSW?theme=gelbooru-h)
+  ![](https://count.getloli.com/get/@CertherNSW?theme=rule34)
 -->
