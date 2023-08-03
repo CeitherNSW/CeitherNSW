@@ -14,14 +14,13 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CeitherNSW"></img> 
 
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=CeitherNSW" width="auto"></img> 
+
 
 <!--   profile-green-animate --> 
-![](./profile-3d-contrib/profile-green-animate.svg) 
+![](./profile-3d-contrib/profile-green-animate.svg)  
 
 ### You Are the No. 
 
-![](https://count.getloli.com/get/@CertherNSW?theme=rule34) 
+![](https://count.getloli.com/get/@CertherNSW?theme=rule34)  
 
 ### Visitor!
