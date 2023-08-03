@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/CeitherNSW/CeitherNSW"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="https://github.com/CeitherNSW/CeitherNSW/graphs/contributors"><img src="https://img.shields.io/github/contributors/CeitherNSW/CeitherNSW?color=blue"></a>
     <a href="https://github.com/CeitherNSW/CeitherNSW/stargazers"><img src="https://img.shields.io/github/stars/CeitherNSW/CeitherNSW.svg?logo=github"></a>
     <a href="https://github.com/CeitherNSW/CeitherNSW/network/members"><img src="https://img.shields.io/github/forks/CeitherNSW/CeitherNSW.svg?color=blue&logo=github"></a>
