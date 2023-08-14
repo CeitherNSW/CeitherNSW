@@ -15,7 +15,7 @@
 - 🌱 I’m currently studying for AI master's in UNSW 
 - 💬 Ask me about CV models 
 - 📫 How to reach me: l.sr3344@outlook.com
-<img src="https://wakatime.com/share/@516b1c08-e2fa-42dc-a034-1de0fd68b546/4f0fd280-e577-4caa-906e-bd38a47c47c1.svg">
+<img src="https://wakatime.com/share/@516b1c08-e2fa-42dc-a034-1de0fd68b546/4f0fd280-e577-4caa-906e-bd38a47c47c1.svg" height=“200”>
 
 <figure><img src="https://wakatime.com/share/@516b1c08-e2fa-42dc-a034-1de0fd68b546/8d5cb3d8-f10e-439d-ba02-77f57549aeef.svg"></figure>
 
